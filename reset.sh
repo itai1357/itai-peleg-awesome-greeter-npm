@@ -1,7 +1,7 @@
 #!/bin/bash
 
-rm -r lib
-rm -r node_modules
+rm -rf lib
+rm -rf node_modules
 
 # after that fix the package.json
 # run npm install
